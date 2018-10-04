@@ -56,49 +56,97 @@ body {
     font-weight: 300;
     padding: 0 14px;
 }
-.hd_text{
+
+.hd_text {
     width: 589px;
     margin-left: 666px;
     margin-top: 319px;
 }
-.hd_text h2{
+
+.hd_text h2 {
     margin: 0;
     font-family: Raleway;
-color:  #ffffff;
-font-size: 36px;
-font-weight: 500;
-text-align: center;
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: 500;
+    text-align: center;
 }
 
-.hd_text h1{
+.hd_text h1 {
     margin: 0;
- font-family: Raleway;
-color:  #ffffff;
-font-size: 52px;
-font-weight: 700;
-text-align: center;
+    font-family: Raleway;
+    color: #ffffff;
+    font-size: 52px;
+    font-weight: 700;
+    text-align: center;
 }
-.hd_text h3{
+
+.hd_text h3 {
     margin: 0;
-font-family: Montserrat;
-color:  #ffffff;
-font-size: 16px;
-font-weight: 300;
-line-height: 24px;
-text-align: center;
+    font-family: Montserrat;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: center;
 }
+
 .button {
     text-decoration: none;
     display: block;
-	border-radius: 3px;
-background-color:  #998675;
-width: 170px;
-font-family: Raleway;
-color:  #ffffff;
-font-size: 14px;
-font-weight: 700;
-text-align: center;
+    border-radius: 3px;
+    background-color: #998675;
+    width: 170px;
+    font-family: Raleway;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
     padding: 21px;
     margin-top: 52px;
     margin-left: 210px;
+}
+
+.block2 {
+    height: 373px;
+}
+
+.block3 {
+    height: 700px;
+    background-color: #fbfaf8;
+}
+
+.text_bl3 {
+    width: 757px;
+    margin-left: 583px;
+}
+
+.text_bl3 h3 {
+    font-family: Raleway;
+    margin: 0;
+    color: #555555;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 83px;
+    padding-bottom: 24px;
+}
+
+.text_bl3 p {
+    font-family: Montserrat;
+    margin: 0;
+    color: #8c8c8c;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: center;
+}
+
+.block4 {
+    height: 150px;
+    background: -webkit-linear-gradient(0deg, #211b19 0%, #4e3427 100%);
+    background: -moz-linear-gradient(0deg, #211b19 0%, #4e3427 100%);
+    background: -o-linear-gradient(0deg, #211b19 0%, #4e3427 100%);
+    background: -ms-linear-gradient(0deg, #211b19 0%, #4e3427 100%);
+    background: linear-gradient(90deg, #211b19 0%, #4e3427 100%);
 }
